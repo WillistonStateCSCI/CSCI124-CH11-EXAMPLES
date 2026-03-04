@@ -35,7 +35,7 @@ int main()
     ifstream infile;
     ofstream outfile;
 
-    infile.open("stData.txt");
+    infile.open("CH11PE01/stData.txt");
 
     if (!infile)
     {
@@ -44,7 +44,7 @@ int main()
         return 1;
     }
 
-    outfile.open("sDataOut.txt");
+    outfile.open("CH11PE01/sDataOut.txt");
 
     infile >> noOfStudents; //get the number of students
     infile >> tuitionRate;  //get the tuition rate
