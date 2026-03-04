@@ -1,2 +1,3 @@
 # CSCI124-CH11-EXAMPLES
-https://classroom.github.com/a/FYPcBYrv
+Programming Examples From C++ Programming: From Problem Analysis to Program Design by DS Malik  
+
